@@ -9,9 +9,9 @@ This project uses the Tensorflow Library in Python and uses Deep Neural Networks
 
 ### Prerequisites
 
-Tensorflow 1.0
-Python 2.7
-NVIDIA CUDA GPU (Optional)
+1. Tensorflow 1.0
+2. Python 2.7
+3. NVIDIA CUDA GPU (Optional)
 
 ### Installing
 
