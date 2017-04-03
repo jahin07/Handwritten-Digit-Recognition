@@ -2,6 +2,7 @@
 
 This project creates a Deep Neural Network with 4 hidden layers (1500 nodes each) to train and test against the MNIST Handwritten Digit dataset.
 The project also uses Convolution Neural Networks with 2 hidden layers against the MNIST dataset
+Lastly, this project uses Recurrent Neural Networks approach on the same MNIST data
 
 ## Getting Started
 
@@ -26,6 +27,7 @@ To run the code
 ```
 python deep-net.py
 python cnn.py
+python rnn.py
 ```
 
 ## Built With
